@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant Reviewer</string>
+    <string name="title">Kafein</string>
+    <string name="review">Review</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque magna vel dui porta, in volutpat ipsum luctus. Nam sollicitudin purus mi, ut rhoncus nulla hendrerit id. Integer dolor leo, tempus vel quam eget, congue maximus libero. Sed ante arcu, condimentum eget ornare quis, lobortis in erat. Aenean porta, nisl a blandit sagittis, eros felis malesuada eros, id mollis sem leo vel est.</string>
+    <string name="write_review">Write your review where..</string>
+    <string name="send">Kirim</string>
+</resources>
